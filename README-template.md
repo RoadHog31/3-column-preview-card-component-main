@@ -96,6 +96,7 @@ To see how you can add code snippets, see below:
 ### Continued development
 
 CSS Media Queries. 
+Make thm fixed height. 
 
 ### Useful resources
 
