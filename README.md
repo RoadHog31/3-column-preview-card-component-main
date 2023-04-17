@@ -1,39 +1,53 @@
-# 3-column-preview-card-component-main
+# 3-column preview card component solution
 
-3-column preview card component solution
-This is a solution to the 3-column preview card component challenge on Frontend Mentor.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
 
-Table of contents
-Overview
-The challenge
-Screenshot
-Links
-My process
-Built with
-What I learned
-Continued development
-Useful resources
-Author
-Overview
-The challenge
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
 Users should be able to:
 
-View the optimal layout depending on their device's screen size
-See hover states for interactive elements
-Screenshot
-Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
-My process
-Built with
-Semantic HTML5 markup
-Desktop-first workflow
-CSS
-What I learned
-I learned and recapped on column layouts and the hover state in CSS. Also, apply fonts using font family.
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Screenshot
+
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Desktop-first workflow
+- CSS
+
+### What I learned
+
+I learned and recapped on column layouts and the hover state in CSS. Also, apply fonts using font family. 
 
 To see how you can add code snippets, see below:
 
+```html
 <div class="column suvsColor">
     <div class="card">
       <img src="/images/icon-suvs.svg" alt="SUV" >
@@ -45,6 +59,8 @@ To see how you can add code snippets, see below:
       <button class="button button2"> Learn More </button>
     </div>
   </div>
+```
+```css
 .button{
 
     color: rgba(0,0,0,0.3);
@@ -75,11 +91,23 @@ To see how you can add code snippets, see below:
     border-radius: 18px;
     border-style: solid;
  }
-Continued development
-CSS Media Queries.
+```
 
-Useful resources
-Example resource 1 - This helped me set out the columns. I really liked this pattern and will use it going forward.
-Author
-Website - Stephen Pino
-Frontend Mentor - @RoadHog31
+### Continued development
+
+CSS Media Queries. 
+Make thm fixed height. 
+
+### Useful resources
+
+- [Example resource 1](https://www.w3schools.com/howto/howto_css_three_columns.asp) - This helped me set out the columns. I really liked this pattern and will use it going forward.
+
+## Author
+
+- Website - [Stephen Pino](https://www.frontendmentor.io/profile/RoadHog31)
+- Frontend Mentor - [@RoadHog31](https://www.frontendmentor.io/profile/RoadHog31)
+
+
+
+
+
